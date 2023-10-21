@@ -1,4 +1,5 @@
-## Desafio de Projeto - Processando e Transformando Dados com Power BI 
+# Desafio 02 - Power BI
+## Santander Bootcamp 2023 - Ciência de Dados com Python
 
 Nesse desafio, realizei a criação de Criação de uma instância na Azure para MySQL. O processo foi bastante desafiador, pois é uma ferramenta com a qual nunca tive contato, mas após algumas tentativas, obtive sucesso. 
 Em seguida, crei um banco de dados com a base disponibilizada no [repositório](https://github.com/julianazanelatto/power_bi_analyst/tree/main/M%C3%B3dulo%203/Desafio%20de%20Projeto) fornecido pela tutora.
